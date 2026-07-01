@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6b0024/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 菩薩投身飴餓虎起塔因緣經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T03/T03n0172.xml
+    old_id: T03n0172
+hash: sha256:d5519121c24dea90b2dfc07b7b1eac3247ffb64e9b3eee288bad461923585879
