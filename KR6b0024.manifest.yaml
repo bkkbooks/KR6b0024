@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6b0024/v1
 canonical_location: https://kanripo.org/bkk/KR6b0024/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 菩薩投身飴餓虎起塔因緣經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6b0024_000.yaml, hash: 'sha256:d5519121c24dea90b2dfc07b7b1eac3247ffb64e9b3eee288bad461923585879'}
-  - {seq: 1, filename: KR6b0024_001.yaml, hash: 'sha256:f7ab5a15d3aabb14e2d80be157d175c66aa5b1427a33804683c1b2fd6322885c'}
+  - {seq: 1, filename: KR6b0024_001.yaml, hash: 'sha256:3bc561775b10cae8ce8901bd4f1beb248c732078847ab9e1516fbf9630babd82'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6b0024_000.markers.yaml, hash: 'sha256:996da5ff6ffe63fd99cdcda1d834aae82939b3bc80356e85661125c8ad332685'}
-  - {seq: 1, role: markers, filename: assets/KR6b0024_001.markers.yaml, hash: 'sha256:3633400826dd0f3cfaa7cf394d5029eeed349705e9a8592fd0a1a24feded4827'}
+  - {seq: 1, role: markers, filename: assets/KR6b0024_001.markers.yaml, hash: 'sha256:d8de7be62971b656cf9f86989c296374f9e3d95769dacf1ff86f117a0493c42a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -51,4 +51,7 @@ table_of_contents:
     經'
   type: juan
   level: 1
-hash: sha256:d1a530cc743b49b3c67b81d5f1205acd54cbed55aa459a0bf685bf07cf267cf7
+hash: sha256:14c8e7b24406e8c74f802290295d2bfb7d367edd85cf6451d19ff5d155ca7174
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
